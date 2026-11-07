@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "8f3c2b1e-5d4a-4c6b-9e7f-2a1b3c4d5e6f",
+  "author": "Ashutosh Singh",
+  "description": { "": "Local bridge that lets fusion-mcp-server drive Fusion through the Fusion API" },
+  "version": "0.1.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
